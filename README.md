@@ -18,6 +18,7 @@ The code is built using React-Native and running code locally requires a Mac or 
 
 - Install [Node.js](https://nodejs.org) **version 10 (latest stable) and yarn@1 (latest)**
   - If you are using [nvm](https://github.com/creationix/nvm#installation) (recommended) running `nvm use` will automatically choose the right node version for you.
+  - Use node.js v10.21.0, npm 6.14.4, yarn 1.17.3
 
 - Install the shared React Native dependencies (`React Native CLI`, _not_ `Expo CLI`)
   - [macOS](https://facebook.github.io/react-native/docs/getting-started.html#installing-dependencies-1)
